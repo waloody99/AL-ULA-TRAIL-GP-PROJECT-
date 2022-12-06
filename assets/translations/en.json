@@ -1,0 +1,130 @@
+{
+    
+    "welcome message" : "Explore All famous places in AL-ULA and find nearby attractions and restaurants in the easiest way possible and and get the chance to enhance your visit by using our Augmented Reality Technology.",
+    "welcome to" : "Welcome - مرحباً",
+
+    "intro-title1" : "No matter where !",
+    "intro-title2" : "Explore Nearby Attractions",
+    "intro-title3" : "Realtime Travel Guide",
+    "intro-description1" : "Get the chance to access important information about your upcoming trip to AL-ULA before and during your travel...",
+    "intro-description2" : "Explore the historical attractions, Natural formations , restaurants & events nearby and all other touristy spots in the easiest way...",
+    "intro-description3" : "Get directions with our 3D Map, Get more info with our AR feature, and other related stuff in one place...",
+    "get started" : "Get Started",
+
+    "Explore the history of Al-Ula" : "Explore the history of Al-Ula",
+    "explore country" : "Explore AL-ULA",
+    "search places" : "Search Places",
+    "popular places" : "Popular Places",
+    "special area-1 places" : "Arts",
+    "special area-2 places" : "Hegra",
+    "recently added" : "Recently Added",
+    "recommended places" : "Recommended Places",
+
+    "people like this" : "People like this",
+    "Things to d" : "Things to do",
+    "you may also like" : "You might also like",
+    "Pocket guide" : "Pocket Guide",
+    "steps" : "Steps",
+    "estimated cost = " : "Estimated Cost = ",
+    "distance = " : "Distance = ",
+    "User reviews" : "User Reviews",
+
+
+    "write a review" : "Write A Review",
+    "no internet" : "No internet communication!",
+    "no comments found" : "No comments found",
+    "be the first to comment" : "Be the first to comment",
+
+    "recently added places" : "Recently Added Places",
+
+
+    "search & explore" : "Search & Explore Places",
+    "recent searchs" : "Recent Search(s)",
+    "search for places" : "Search for places",
+    "search-description" :  "You haven't searched for any items yet.\n Try now - we will help you!",
+    "we have found" : "We have found",
+    "no places found" : "No places found",
+    "try again" : "Try again!",
+
+
+
+    "Areas" : "Areas",
+    "blogs" : "blogs",
+
+
+    "bookmarks" : "Bookmarks",
+    "saved places" : "Saved Places",
+    "saved blogs" : "Saved Blogs",
+    "sign in first" : "Sign In First",
+    "sign in to save your favourite places here" : "Sign in to save your favourite places here",
+    "sign in to save your favourite blogs here" : "Sign in to save your favourite blogs here",
+    "no blogs found" : "No Blogs Found",
+    "save your favourite places here" : "Save your favourite places here",
+    "save your favourite blogs here" : "Save your favourite blogs here",
+
+
+
+    "skip" : "Skip",
+    "check your internet connection!" : "Check your internet connection!",
+    "something is wrong. please try again." : "Something is wrong. Please try again.",
+
+
+    "sign in" : "Sign In",
+    "cancel" : "Cancel",
+    
+    "no sign in title" : "Sign in first to access this feature",
+    "no sign in subtitle" : "You haven't signed in yet. Please sign in to unlock this feature",
+
+    
+    
+    "comments" : "Comments",
+    "write a comment" : "Write A Comment", 
+
+
+    
+    "no content" : "No contents found",
+    "delete?" : "Delete?",
+    "delete from database?" : "Want to delete this item?",
+    "flag this comment" : "Flag this comment",
+    "unflag this comment" : "Unflag this comment",
+    "report" : "Report",
+    "delete" : "Delete",
+    "report-info" : "Your report has been sent successfully to the admins",
+    "report-info1" : "Thanks for your report. We will repond within 24 hours.",
+    "report-guest" : "Sign In is Required!",
+    "report-guest1" : "You have to sign in to report about any comments",
+    "comment flagged" : "This comment has been flagged!",
+
+
+    "notifications" : "Notifications",
+    "notification details" : "Notification Details",
+
+
+    "profile" : "Profile",
+    "general setting" : "General Settings",
+    "login" : "Login",
+    "get notifications" : "Get Notifications",
+    "contact us" : "Contact Us",
+    "rate this app" : "Rate this app",
+    "licence" : "Licence",
+    "privacy policy" : "Privacy Policy",
+    "about us" : "About Us",
+    "logout" : "Logout",
+    "edit profile" : "Edit Profile",
+    "update profile" : "Update Profile",
+    "updated successfully" : "Updated Successfully",
+    "enter new name" : "Enter new name",
+
+    "logout title" : "Do you really want to logout from the app?",
+    "yes" : "Yes",
+    "no" : "No",
+
+    "language" : "Language",
+    "select language" : "Select Language",
+
+    "no notifications": "No notifications found",
+    "no blogs": "No blogs found"
+
+
+
+}

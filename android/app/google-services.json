@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "628635972641",
+    "firebase_url": "https://al-ula-trail-default-rtdb.firebaseio.com",
+    "project_id": "al-ula-trail",
+    "storage_bucket": "al-ula-trail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628635972641:android:8288c456a2085ee858df60",
+        "android_client_info": {
+          "package_name": "com.gp2.AlulaTrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628635972641-7m0k3hhckssmpgkln2i119ibat58tcf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gp2.AlulaTrail",
+            "certificate_hash": "da2fb6b39ae0886754b3f3b3c416a4301667eba4"
+          }
+        },
+        {
+          "client_id": "628635972641-bp9j0p20i6esk22pcihnt1hpt7brd4hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gp2.AlulaTrail",
+            "certificate_hash": "6625fa0a482b587c82e7d9b4b3eff7a140829d09"
+          }
+        },
+        {
+          "client_id": "628635972641-7l9vkmgshq9m988fr037ac3r7odsmma5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJHZMJMAqd_FK9dMw8TPiB-SK4XMjo4wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628635972641-7l9vkmgshq9m988fr037ac3r7odsmma5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "2"
+}
